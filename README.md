@@ -52,8 +52,8 @@ This project is an **AI-powered resume screening tool** that matches resumes wit
 1. Clone the repository:
 
    ```bash
- git clone https://github.com/somilshekhar/Resume-screening-Sentence-BERT-embeddings.git
-cd Resume-screening-Sentence-BERT-embeddings
+    git clone https://github.com/somilshekhar/Resume-screening-Sentence-BERT-embeddings.git
+   cd Resume-screening-Sentence-BERT-embeddings
    ```
 
 2. Create a virtual environment:
